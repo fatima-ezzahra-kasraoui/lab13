@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Fond bleu -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M0,0 H108 V108 H0 Z" />
+
+    <!-- Épingle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20 C44,20 36,28 36,38 C36,52 54,88 54,88 C54,88 72,52 72,38 C72,28 64,20 54,20 Z" />
+
+    <!-- Point central blanc -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M54,44 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+
+</vector>
