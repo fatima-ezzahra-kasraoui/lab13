@@ -44,3 +44,10 @@ MapApplication/
 - Carte OSMDroid avec marqueurs cliquables (titre + date)
 - Bouton Actualiser pour recharger les positions
 - Gestion du cycle de vie de la carte (onResume/onPause/onDestroy)
+
+<img width="186" height="394" alt="image" src="https://github.com/user-attachments/assets/8c93a7aa-119c-464d-b7ac-f6c025bfc049" />
+<img width="181" height="384" alt="image" src="https://github.com/user-attachments/assets/deeb4bc8-653d-4ee1-a70e-27eaa88147e1" />
+<img width="174" height="387" alt="image" src="https://github.com/user-attachments/assets/2f1d39bd-6695-46fd-b267-22ab4ed5d3f4" />
+
+
+
